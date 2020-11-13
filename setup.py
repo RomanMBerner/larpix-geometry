@@ -1,6 +1,5 @@
 '''
 The setup.py file for larpix-geometry.
-
 '''
 
 from setuptools import setup, find_packages
